@@ -1,0 +1,31 @@
+﻿<Window x:Class="RiskApp.AdminNewProject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiskApp"
+        mc:Ignorable="d"
+        Title="Create new project" Height="297.38" Width="693.61" Activated="Window_Activated" ResizeMode="NoResize" Background="#FFD7EBF6">
+    <Grid Margin="0,0,0,-3" HorizontalAlignment="Left" Width="345">
+        <Button x:Name="BackButton"  Height="40" Width="40"  Click="BackButton_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,10,0,0" RenderTransformOrigin="0.54,1.047">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label x:Name="ProjectNameLabel" Content="Project Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="23,53,0,0" RenderTransformOrigin="0.47,2.061"/>
+        <TextBox x:Name="Name" Margin="113,53,0,180" HorizontalAlignment="Left" Width="212"/>
+        <ComboBox Name="TypeCombobox" Text="sdgsdgs" Margin="27,118,0,117" HorizontalAlignment="Left" Width="308">
+            <TextBlock> Web Application</TextBlock>
+            <TextBlock> Mobile Application</TextBlock>
+            <TextBlock> Desktop Application</TextBlock>
+        </ComboBox>
+        <Label x:Name="LabelOwner" Content="Choose the project's owner:" Margin="371,13,-194,211" HorizontalAlignment="Left" Width="168"/>
+        <ListBox x:Name="listOwners" Margin="371,53,-330,0" HorizontalAlignment="Left" Width="304" Height="188" VerticalAlignment="Top"/>
+        <Button x:Name="CreateButton" Content="Create Project" Margin="27,195,13,44" Click="CreateButton_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Choose the type of the App: " HorizontalAlignment="Left" Margin="23,92,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

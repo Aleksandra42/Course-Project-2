@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RiskApp.DatabaseActions">
+    <Position X="2" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAQAEAAAAAEAAIAAAAAgAAAAA=</HashCode>
+      <FileName>ActionLibrary\DatabaseActions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.Project">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAEAAAAAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ActionLibrary\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.ProjectActions">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAABAAABAAA=</HashCode>
+      <FileName>ActionLibrary\ProjectActions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.Risk">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQBABCECgACgAgEggQAAIAAAAAAABAAAQAAAAAAAAA=</HashCode>
+      <FileName>ActionLibrary\Risk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.RiskActions">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAQAAAAAAAAEAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ActionLibrary\RiskActions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.Tree">
+    <Position X="7.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEAQAAAAAAAAAECAAAABAEAAAAAA=</HashCode>
+      <FileName>ActionLibrary\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.User">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAkAAAAAAQAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>ActionLibrary\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.UserActions">
+    <Position X="3.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAEgAAAQAAAAAAAAA=</HashCode>
+      <FileName>ActionLibrary\UserActions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.Vertex">
+    <Position X="5.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAggAAAAAAAAJAAAABAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>ActionLibrary\Vertex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RiskApp.AdministratorGraphic" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ag4qIEIACBBAAAAEAKACFEAACAAhEICgA1ABgaMEAAA=</HashCode>
+      <FileName>AdministratorWindows\AdministratorGraphic.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.AdminNewProject" BaseTypeListCollapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIACAAAACAAAAAAAAAAAECAAAAA=</HashCode>
+      <FileName>AdministratorWindows\AdminNewProject.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.AdminProjects" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAIACAAAACAAAAAAAAAAAECAAAAA=</HashCode>
+      <FileName>AdministratorWindows\AdminProjects.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.AdminTree" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAEAFABSAgABAIAAIEEEDAgAACAAAAAogiAEEAA=</HashCode>
+      <FileName>AdministratorWindows\AdminTree.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.ChoiceWindow" BaseTypeListCollapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIACAgAACAAAAAAAAAAAACAAAQA=</HashCode>
+      <FileName>ProjectManagerWindows\ChoiceWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.ProjectManagerGraphic" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAsIIAAICQDAAAAERKACMBAECBAlEKQAAFBBAKAEAAA=</HashCode>
+      <FileName>ProjectManagerWindows\ProjectManagerGraphic.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.ProjectManagerTree" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAFoAACABAAKAGAgAADAgIACAIAIAkgABBBUI=</HashCode>
+      <FileName>ProjectManagerWindows\ProjectManagerTree.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.ReportWindow" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgggCAEEDAAEAAACQKAEIAAADAABEAAAAEQlAYAQBAA=</HashCode>
+      <FileName>ReportWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.RiskManagerGraphic" BaseTypeListCollapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoIAEAACABAAAAEEIACFAAECAgFEAAKABABgAEEYQA=</HashCode>
+      <FileName>RiskManagerWindows\RiskManagerGraphic.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.RiskManagerTree" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAEAFABQAgABAIAMIAEEDAgAACAUAAAogiAEAQA=</HashCode>
+      <FileName>RiskManagerWindows\RiskManagerTree.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.SelectionWindow" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAIACAAAACAAAAAAAAAAAACAAAQA=</HashCode>
+      <FileName>RiskManagerWindows\SelectionWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RiskApp.RiskSettingsWindow" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAABACAAAEAIAAAIAACAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>RiskSettingsWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

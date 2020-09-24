@@ -1,0 +1,31 @@
+﻿<Window x:Class="RiskApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:RiskApp"
+        mc:Ignorable="d"
+        Title="Login Page" Height="267.169" Width="496.529" Closing="Window_Closing" ResizeMode="NoResize">
+    <Grid Margin="2,2,-18,-19.8" Height="221" VerticalAlignment="Top">
+        <Image Source="C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Debug\loginWindow.png" Margin="217,0,23.4,0"/>
+        <Label x:Name="label" Content="Enter login and password" Margin="70,0,0,124" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="180"/>
+        <TextBox x:Name="loginBox" HorizontalAlignment="Left" Margin="70,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="125" RenderTransformOrigin="0.5,0.5"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="70,125,0,0" VerticalAlignment="Top" Width="125"/>
+        <Button x:Name="enterButton" Content="Enter" HorizontalAlignment="Left" Margin="70,148,0,0" VerticalAlignment="Top" Width="75" Click="EnterButton_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Login" HorizontalAlignment="Left" Height="28" Margin="29,100,0,0" VerticalAlignment="Top" Width="55" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.17"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Password" HorizontalAlignment="Left" Height="31" Margin="10,120,0,0" VerticalAlignment="Top" Width="69"/>
+    </Grid>
+</Window>

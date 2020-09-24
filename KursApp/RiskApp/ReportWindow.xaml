@@ -1,0 +1,77 @@
+﻿<Window x:Class="RiskApp.ReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiskApp"
+        mc:Ignorable="d"
+        Title="Report Window" Activated="Window_Activated" ResizeMode="NoResize" WindowState="Maximized" Background="#FFF4D3D3">
+    <Grid x:Name="grid">
+        <Button x:Name="CloseButton" Content="Close Report" Click="Close_Click" Height="20" Width="92" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,10,9.6,0">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button Content="Open Document" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Click="OpenDocument_Click"  Margin="10,10,0,0">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Line X1="75" X2="75" Y1="50" Y2="400" Stroke="Black"/>
+        <Line X1="75" X2="500" Y1="400" Y2="400" Stroke="Black"/>
+        <Label x:Name="InfluenceLabel" Content="Impact" Margin="20,40,1100,590"/>
+        <Label x:Name="ProbabilityLabel" Content="Probability" Margin="430,395,685,230"/>
+        <Polyline Stroke="Black" Points="70, 60, 75, 50, 80, 60" />
+        <Polyline Stroke="Black" Points="490, 395, 500, 400, 490, 405" />
+        <Canvas x:Name="canvas" MouseRightButtonDown="Canvas_MouseRightButtonDown">
+
+        </Canvas>
+        <Label Content="The most dangerous risks" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="22"  Margin="0,0,0,300"/>
+        <ListView x:Name="listDangerous" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="250" Margin="0,0,0,50">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="150" >
+                        Name of Risk
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding RiskName}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Width="150" >
+                        Source
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Source}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Width="150" >
+                        Possible Solution
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Solution}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Width="150" >
+                        Effects
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Effects}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Width="150">
+                        Rank
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Rank}" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

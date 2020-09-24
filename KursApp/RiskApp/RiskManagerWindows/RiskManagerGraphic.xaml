@@ -1,0 +1,262 @@
+﻿<Window x:Class="RiskApp.RiskManagerGraphic"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiskApp"
+        mc:Ignorable="d"
+        Title="Risk Manager's Graphic Window" Height="700" Width="1200" Activated="Window_Activated" WindowStartupLocation="CenterScreen" MouseDown="Canvas_MouseDown" MouseMove="Canvas_MouseMove" ResizeMode="NoResize" Background="#FFD7F7B2">
+    <Grid x:Name="grid">
+        <Button x:Name="BackButton" Margin="10,10,0,0" Height="40" Width="40" VerticalAlignment="Top" HorizontalAlignment="Left"  Click="Back_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+
+        <Line X1="75" X2="75" Y1="50" Y2="400" Stroke="Black"/>
+        <Line X1="75" X2="500" Y1="400" Y2="400" Stroke="Black"/>
+        <Label x:Name="InfluenceLabel" Content="Influence" Margin="10,55,1109.6,574.4"/>
+        <Label x:Name="ProbabilityLabel" Content="Probability" Margin="430,395,685,230"/>
+        <Polyline Stroke="Black" Points="70, 60, 75, 50, 80, 60" />
+        <Polyline Stroke="Black" Points="490, 395, 500, 400, 490, 405" />
+        <Canvas x:Name="canvas" Margin="0,0,640,250"  MouseRightButtonDown="Canvas_MouseRightButtonDown">
+        </Canvas>
+        <TabControl x:Name="RisksTable" Margin="600,50,25,90" BorderBrush="#FFACACAC">
+            <TabItem BorderBrush="#FF044803">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FF50E50C" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <TextBlock FontSize="15">Active Risks</TextBlock>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <StackPanel Margin="0,0,0,0">
+                        <ListView x:Name="listRisksSelected" Height="370" SelectionChanged="RiskSelected_SelectionChanged">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="156" >
+                                        Name
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding RiskName}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="100" >
+                                        Owner
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding OwnerLogin}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="75" >
+                                        Influence
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Influence}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="75">
+                                        Probability
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Probability}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="150">
+                                        Send To InActive
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Button x:Name="DeleteButton" Content="Delete" Click="DeleteButton_Click"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                        <Grid Height="100">
+                            <TextBox x:Name="ProbabilityTextbox" Margin="150,5,300,70" />
+                            <Label x:Name="LabelInfuence" Content="Influence" Margin="0,35,400,35"/>
+                            <Label x:Name="LabelProbability" Content="Probability" Margin="0,5,400,70"/>
+                            <Button x:Name="SetRiskUpButton" Content="Set Up" Click="SetUpRiskButton_Click" Margin="5,70,450,10">
+                                <Button.Effect>
+                                    <DropShadowEffect/>
+                                </Button.Effect>
+                            </Button>
+                            <TextBox x:Name="InfluenceTextbox" Margin="150,35,300,40"/>
+                        </Grid>
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+            <TabItem BorderBrush="#FF044803">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FF50E50C" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <TextBlock FontSize="15">Dangerous Risks</TextBlock>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <StackPanel>
+                        <ListView x:Name="listDangerous" Height="400" MouseDoubleClick="DangerousListRisks_MouseDoubleClick">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="175" >
+                                        Name
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding RiskName}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="175" >
+                                        Source Of Risk
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding SoursOfRisk}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="175">
+                                        Rank
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Rank}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="175" >
+                                        Possible Solution
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Solution}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+            <TabItem BorderBrush="#FF044803">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FF50E50C" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <TextBlock FontSize="15">New Risks</TextBlock>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <StackPanel Margin="0,0,0,0">
+                        <ListView x:Name="listNewRisks" Height="370" SelectionChanged="ListNewRisks_SelectionChanged">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="200" >
+                                        Name
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding RiskName}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="150" >
+                                        Influence
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Influence}" TextWrapping="Wrap" TextAlignment="Center"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="150">
+                                        Probability
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Probability}" TextWrapping="Wrap" TextAlignment="Center"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                        <Grid Height="100">
+                            <TextBox x:Name="TextboxProbabilityNew" Margin="150,5,300,70" />
+                            <Label x:Name="LabelInfNew" Content="Influence" Margin="0,35,400,35"/>
+                            <Label x:Name="LabelProbNew" Content="Probability" Margin="0,5,400,70"/>
+                            <ComboBox x:Name="UserNewCombobox" Text="Owner" Margin="300,15,50.2,38"  IsEditable="True" IsReadOnly="True"/>
+                            <Button x:Name="SetUpNewButton" Content="Set Up" Click="SetUpNewButton_Click" Margin="5,70,450,10">
+                                <Button.Effect>
+                                    <DropShadowEffect/>
+                                </Button.Effect>
+                            </Button>
+                            <TextBox x:Name="TextboxInfluenceNew" Margin="150,35,300,40"/>
+                        </Grid>
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+            <TabItem BorderBrush="#FF044803">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="#FF50E50C" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <TextBlock FontSize="15"> Inactive Risks</TextBlock>
+                </TabItem.Header>
+                <TabItem.Content>
+                    <StackPanel Margin="0,0,0,0">
+                        <ListView x:Name="listRisksNonselected" Height="370" SelectionChanged="RiskSelected_SelectionChanged">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="150" >
+                                        Name
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding RiskName}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="125" >
+                                        Influence
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Influence}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="125">
+                                        Probability
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <TextBlock Text="{Binding Probability}" TextWrapping="Wrap"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Width="175">
+                                        Add to Active
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <Button x:Name="AddToActiveButton" Content="Add To Active" Click="AddToActiveRisks_Click"/>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

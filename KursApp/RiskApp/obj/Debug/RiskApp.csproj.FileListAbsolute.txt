@@ -1,0 +1,127 @@
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Debug\Database.mdf
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Debug\Database_log.ldf
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Debug\RiskApp.exe.config
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Debug\RiskApp.exe
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Debug\RiskApp.pdb
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForProjectManager\GraphicForProjectManager.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForRiskManager\Gra[hicForRiskManager.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForProjectManager\ProjectChoise.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\Projects.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\MainWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForRiskManager\SelectProject.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\RiskTree.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForProjectManager\RiskTreeForProjectManager.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForRiskManager\RiskTreeForRiskManager.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\App.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp_Content.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp_MarkupCompile.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp_MarkupCompile.lref
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForProjectManager\GraphicForProjectManager.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForRiskManager\Gra[hicForRiskManager.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForProjectManager\ProjectChoise.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\Projects.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\MainWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForRiskManager\SelectProject.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\RiskTree.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForProjectManager\RiskTreeForProjectManager.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForRiskManager\RiskTreeForRiskManager.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.g.resources
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.Properties.Resources.resources
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.csproj.GenerateResource.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.exe
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskApp.pdb
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ReportWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ReportWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\AdministratorGraphic.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\AdministratorGraphic.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\AdminNewProject.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskSettingsWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\ForAdmin\AdminNewProject.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Debug\RiskSettingsWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Debug\Database.mdf
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Debug\Database_log.ldf
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Debug\RiskApp.exe.config
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Debug\RiskApp.exe
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Debug\RiskApp.pdb
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.csproj.ResolveComReference.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdministratorGraphic.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminTree.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerGraphic.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerGraphic.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminNewProject.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ChoiceWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminProjects.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\MainWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskSettingsWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskManagerWindows\SelectionWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerTree.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerTree.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ReportWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\App.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp_Content.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp_MarkupCompile.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp_MarkupCompile.lref
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdministratorGraphic.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminTree.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerGraphic.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerGraphic.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminNewProject.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ChoiceWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminProjects.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\MainWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskSettingsWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskManagerWindows\SelectionWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerTree.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerTree.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\ReportWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.g.resources
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.Properties.Resources.resources
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.csproj.GenerateResource.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.csproj.CoreCompileInputs.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.exe
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.pdb
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Debug\RiskApp.csprojAssemblyReference.cache
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\bin\Debug\Database.mdf
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\bin\Debug\Database_log.ldf
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.csproj.ResolveComReference.cache
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdministratorGraphic.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminTree.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerGraphic.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerGraphic.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminNewProject.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ChoiceWindow.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminProjects.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\MainWindow.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskSettingsWindow.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskManagerWindows\SelectionWindow.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerTree.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerTree.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ReportWindow.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\App.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp_Content.g.cs
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp_MarkupCompile.cache
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp_MarkupCompile.lref
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdministratorGraphic.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminTree.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerGraphic.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerGraphic.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminNewProject.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ChoiceWindow.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\AdministratorWindows\AdminProjects.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\MainWindow.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskSettingsWindow.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskManagerWindows\SelectionWindow.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ProjectManagerWindows\ProjectManagerTree.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskManagerWindows\RiskManagerTree.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\ReportWindow.baml
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.g.resources
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.Properties.Resources.resources
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.csproj.GenerateResource.cache
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.csproj.CoreCompileInputs.cache
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.exe
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\obj\Debug\RiskApp.pdb
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\bin\Debug\RiskApp.exe.config
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\bin\Debug\RiskApp.exe
+E:\Курсовая работа №2\Курсовая работа\KursApp\RiskApp\bin\Debug\RiskApp.pdb

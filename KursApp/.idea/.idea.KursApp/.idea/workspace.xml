@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1772461-8fcc-42ef-ae66-7f1668999dc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/UserActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/Project.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/RiskManagerWindows/SelectionWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminProjects.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminTree.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminProjects.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminNewProject.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminNewProject.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ChoiceWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerTree.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerGraphic.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerGraphic.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ReportWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerTree.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/RiskSettingsWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/RiskSettingsWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ReportWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/ProjectActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/RiskActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/Risk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/DatabaseActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RiskApp/ActionLibrary/Tree.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KursApp/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/KursApp/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/KursApp/ForAdmin/Graphic.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ReportWindow.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/ProbabilityInfluenceOwner.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/Vertexcs.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ProbabilityInfluenceOwner.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/User.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/TreeCommands.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/UserActions.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/Tree.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/RisksCommand.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/RiskActions.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/Risk.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForAdmin/RiskTree.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForProjectManager/RiskTreeForProjectManager.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForRiskManager/RiskTreeForRiskManager.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/ProjectCommands.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForAdmin/NewProject.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForAdmin/Projects.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForProjectManager/ProjectChoise.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/Project.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/DataCommands.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForAdmin/Graphic.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForRiskManager/Gra[hicForRiskManager.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForRiskManager/SelectProject.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ReportWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/CommandsForDB/DatabaseActions.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ActionLibrary/DatabaseActions.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ActionLibrary/Risk.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ActionLibrary/RiskActions.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/RiskSettingsWindow.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/ForProjectManager/GraphicForProjectManager.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ForAdmin/AdministratorGraphic.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/ForAdmin/AdministratorGraphic.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminNewProject.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminNewProject.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/AdministratorWindows/AdminTree.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ChoiceWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerGraphic.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerGraphic.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/RiskSettingsWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerTree.xaml" />
+        <option value="$PROJECT_DIR$/RiskApp/ProjectManagerWindows/ProjectManagerTree.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bIfWE5rLKTPuIkCdBzWywjqwai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="KursApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RiskApp/RiskApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1772461-8fcc-42ef-ae66-7f1668999dc8" name="Default Changelist" comment="" />
+      <created>1588324581782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588324581782</updated>
+      <workItem from="1588324627342" duration="560000" />
+      <workItem from="1588505553411" duration="4126000" />
+      <workItem from="1588581041485" duration="1933000" />
+      <workItem from="1588585536280" duration="9631000" />
+      <workItem from="1588625812363" duration="28143000" />
+      <workItem from="1588711255538" duration="3516000" />
+      <workItem from="1589020481341" duration="7718000" />
+      <workItem from="1589280064296" duration="2176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1588746375761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588746375761" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1588746375761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588746375761" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1588746375761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588746375761" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1588746375761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588746375761" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1588627522735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588627522735" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1588684632863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588684632863" />
+  </component>
+</project>

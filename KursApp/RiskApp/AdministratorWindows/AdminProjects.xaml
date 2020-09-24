@@ -1,0 +1,23 @@
+﻿<Window x:Class="RiskApp.AdminProjects"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiskApp"
+        mc:Ignorable="d"
+        Title="Projects" Height="504.945" Width="461.6" Activated="Window_Activated" ResizeMode="NoResize" Background="#FFC0D4F0">
+    <Grid Margin="0,0,0,-0.8" Height="464" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="450">
+        <ListBox x:Name="listBoxProjects" Margin="61,49,34,95" MouseDoubleClick="ListBox_MouseDoubleClick"/>
+        <Label x:Name="label" Content="Select Project:" Margin="61,0,193,423" FontSize="16"/>
+        <Button x:Name="CreateButton" Content="Create New Project" Margin="61,368,34,52" Click="CreateButton_Click" FontSize="16">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="BackButton"  Height="40" Width="40"  Click="BackButton_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,0,0,0">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+    </Grid>
+</Window>

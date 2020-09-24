@@ -1,0 +1,85 @@
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Release\RiskApp.exe
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Release\Database.mdf
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Release\Database_log.ldf
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Release\RiskApp.exe.config
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.csproj.ResolveComReference.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdministratorGraphic.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminTree.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerGraphic.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerGraphic.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminNewProject.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ChoiceWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminProjects.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\MainWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskSettingsWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskManagerWindows\SelectionWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerTree.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerTree.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ReportWindow.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\App.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp_Content.g.cs
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp_MarkupCompile.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp_MarkupCompile.lref
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdministratorGraphic.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminTree.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerGraphic.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerGraphic.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminNewProject.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ChoiceWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminProjects.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\MainWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskSettingsWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskManagerWindows\SelectionWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerTree.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerTree.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\ReportWindow.baml
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.g.resources
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.Properties.Resources.resources
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.csproj.GenerateResource.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.exe
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.pdb
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\bin\Release\RiskApp.pdb
+C:\Users\Aleksandra\Kursach\KursApp\RiskApp\obj\Release\RiskApp.csprojAssemblyReference.cache
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Release\Database.mdf
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Release\Database_log.ldf
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Release\RiskApp.exe.config
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Release\RiskApp.exe
+E:\Курсовая работа №2\KursApp\RiskApp\bin\Release\RiskApp.pdb
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.csproj.ResolveComReference.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdministratorGraphic.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminTree.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerGraphic.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerGraphic.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminNewProject.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ChoiceWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminProjects.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\MainWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskSettingsWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskManagerWindows\SelectionWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerTree.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerTree.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ReportWindow.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\App.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp_Content.g.cs
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp_MarkupCompile.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp_MarkupCompile.lref
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdministratorGraphic.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminTree.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerGraphic.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerGraphic.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminNewProject.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ChoiceWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\AdministratorWindows\AdminProjects.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\MainWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskSettingsWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskManagerWindows\SelectionWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ProjectManagerWindows\ProjectManagerTree.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskManagerWindows\RiskManagerTree.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\ReportWindow.baml
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.g.resources
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.Properties.Resources.resources
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.csproj.GenerateResource.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.csproj.CoreCompileInputs.cache
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.exe
+E:\Курсовая работа №2\KursApp\RiskApp\obj\Release\RiskApp.pdb

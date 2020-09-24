@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aleksandra\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aleksandra\AppData\Local\JetBrains\Transient\ReSharperHost\v201\SolutionCaches\_KursApp.-1079200803.00" t="ExcludeRecursive" />
+    <e p="E:\Курсовая работа №2\KursApp" t="IncludeFlat">
+      <e p="KursApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RiskApp" t="IncludeRecursive">
+        <e p="ActionLibrary" t="Include">
+          <e p="DatabaseActions.cs" t="Include" />
+          <e p="Project.cs" t="Include" />
+          <e p="ProjectActions.cs" t="Include" />
+          <e p="Risk.cs" t="Include" />
+          <e p="RiskActions.cs" t="Include" />
+          <e p="Tree.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserActions.cs" t="Include" />
+          <e p="Vertex.cs" t="Include" />
+        </e>
+        <e p="AdministratorWindows" t="Include">
+          <e p="AdministratorGraphic.xaml" t="Include" />
+          <e p="AdministratorGraphic.xaml.cs" t="Include" />
+          <e p="AdminNewProject.xaml" t="Include" />
+          <e p="AdminNewProject.xaml.cs" t="Include" />
+          <e p="AdminProjects.xaml" t="Include" />
+          <e p="AdminProjects.xaml.cs" t="Include" />
+          <e p="AdminTree.xaml" t="Include" />
+          <e p="AdminTree.xaml.cs" t="Include" />
+        </e>
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="Database.mdf" t="Include" />
+        <e p="Database_log.ldf" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="AdministratorWindows" t="Include">
+              <e p="AdministratorGraphic.g.cs" t="Include" />
+              <e p="AdminNewProject.g.cs" t="Include" />
+              <e p="AdminProjects.g.cs" t="Include" />
+              <e p="AdminTree.g.cs" t="Include" />
+            </e>
+            <e p="App.g.cs" t="Include" />
+            <e p="MainWindow.g.cs" t="Include" />
+            <e p="ProjectManagerWindows" t="Include">
+              <e p="ChoiceWindow.g.cs" t="Include" />
+              <e p="ProjectManagerGraphic.g.cs" t="Include" />
+              <e p="ProjectManagerTree.g.cs" t="Include" />
+            </e>
+            <e p="ReportWindow.g.cs" t="Include" />
+            <e p="RiskApp_Content.g.cs" t="Include" />
+            <e p="RiskManagerWindows" t="Include">
+              <e p="RiskManagerGraphic.g.cs" t="Include" />
+              <e p="RiskManagerTree.g.cs" t="Include" />
+              <e p="SelectionWindow.g.cs" t="Include" />
+            </e>
+            <e p="RiskSettingsWindow.g.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ProjectManagerWindows" t="Include">
+          <e p="ChoiceWindow.xaml" t="Include" />
+          <e p="ChoiceWindow.xaml.cs" t="Include" />
+          <e p="ProjectManagerGraphic.xaml" t="Include" />
+          <e p="ProjectManagerGraphic.xaml.cs" t="Include" />
+          <e p="ProjectManagerTree.xaml" t="Include" />
+          <e p="ProjectManagerTree.xaml.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="ReportWindow.xaml" t="Include" />
+        <e p="ReportWindow.xaml.cs" t="Include" />
+        <e p="RiskApp.csproj" t="IncludeRecursive" />
+        <e p="RiskManagerWindows" t="Include">
+          <e p="RiskManagerGraphic.xaml" t="Include" />
+          <e p="RiskManagerGraphic.xaml.cs" t="Include" />
+          <e p="RiskManagerTree.xaml" t="Include" />
+          <e p="RiskManagerTree.xaml.cs" t="Include" />
+          <e p="SelectionWindow.xaml" t="Include" />
+          <e p="SelectionWindow.xaml.cs" t="Include" />
+        </e>
+        <e p="RiskSettingsWindow.xaml" t="Include" />
+        <e p="RiskSettingsWindow.xaml.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
